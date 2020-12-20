@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.29)  20 DEC 2020 17:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.29)  20 DEC 2020 18:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -860,18 +860,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 149.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 149.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 149.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 149.
 
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 88.
-
-
-Overfull \hbox (155.27663pt too wide) in paragraph at lines 89--145
-[][] 
- []
-
-
-LaTeX Warning: Float too large for page by 168.24118pt on input line 145.
+LaTeX Warning: Float too large for page by 66.60074pt on input line 150.
 
 [1
 
@@ -880,18 +879,18 @@ LaTeX Warning: Float too large for page by 168.24118pt on input line 145.
 <figures/dead5_proportion.png, id=51, 735.74875pt x 737.75626pt>
 File: figures/dead5_proportion.png Graphic file (type png)
 <use figures/dead5_proportion.png>
-Package pdftex.def Info: figures/dead5_proportion.png  used on input line 193.
+Package pdftex.def Info: figures/dead5_proportion.png  used on input line 199.
 (pdftex.def)             Requested size: 142.26378pt x 142.65173pt.
 <figures/stunting_proportion.png, id=53, 735.74875pt x 737.75626pt>
 File: figures/stunting_proportion.png Graphic file (type png)
 <use figures/stunting_proportion.png>
-Package pdftex.def Info: figures/stunting_proportion.png  used on input line 19
-5.
+Package pdftex.def Info: figures/stunting_proportion.png  used on input line 20
+1.
 (pdftex.def)             Requested size: 142.26378pt x 142.65173pt.
 <figures/income_over_time.png, id=54, 735.74875pt x 737.75626pt>
 File: figures/income_over_time.png Graphic file (type png)
 <use figures/income_over_time.png>
-Package pdftex.def Info: figures/income_over_time.png  used on input line 202.
+Package pdftex.def Info: figures/income_over_time.png  used on input line 208.
 (pdftex.def)             Requested size: 294.29428pt x 295.09727pt.
 
 
@@ -901,13 +900,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/water_improved_proportion.png Graphic file (type png)
 <use figures/water_improved_proportion.png>
 Package pdftex.def Info: figures/water_improved_proportion.png  used on input l
-ine 210.
+ine 216.
 (pdftex.def)             Requested size: 142.26378pt x 104.55724pt.
 <figures/sanitation_improved_proportion.png, id=56, 1003.75pt x 737.75626pt>
 File: figures/sanitation_improved_proportion.png Graphic file (type png)
 <use figures/sanitation_improved_proportion.png>
 Package pdftex.def Info: figures/sanitation_improved_proportion.png  used on in
-put line 212.
+put line 218.
 (pdftex.def)             Requested size: 142.26378pt x 104.55724pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -917,30 +916,30 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/aggregated_education_indoubt_lower.png Graphic file (type png)
 <use figures/aggregated_education_indoubt_lower.png>
 Package pdftex.def Info: figures/aggregated_education_indoubt_lower.png  used o
-n input line 222.
+n input line 228.
 (pdftex.def)             Requested size: 142.26378pt x 142.84311pt.
 <figures/aggregated_education_indoubt_higher.png, id=59, 734.745pt x 737.75626p
 t>
 File: figures/aggregated_education_indoubt_higher.png Graphic file (type png)
 <use figures/aggregated_education_indoubt_higher.png>
 Package pdftex.def Info: figures/aggregated_education_indoubt_higher.png  used 
-on input line 224.
+on input line 230.
 (pdftex.def)             Requested size: 142.26378pt x 142.84311pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 229.
+(Font)              scaled to size 9.37807pt on input line 235.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 229.
+(Font)              scaled to size 7.29405pt on input line 235.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 229.
+(Font)              scaled to size 5.21004pt on input line 235.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 229.
+(Font)              scaled to size 9.37807pt on input line 235.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 229.
+(Font)              scaled to size 7.29405pt on input line 235.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 229.
+(Font)              scaled to size 5.21004pt on input line 235.
 [4 <./figures/dead5_proportion.png> <./figures/stunting_proportion.png>]
 [5] (./main.bbl
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
@@ -960,22 +959,22 @@ on_indoubt_lower.png> <./figures/aggregated_education_indoubt_higher.png>])
 <figures/corrmatrix_stunting.png, id=134, 546.04pt x 519.9425pt>
 File: figures/corrmatrix_stunting.png Graphic file (type png)
 <use figures/corrmatrix_stunting.png>
-Package pdftex.def Info: figures/corrmatrix_stunting.png  used on input line 35
-8.
+Package pdftex.def Info: figures/corrmatrix_stunting.png  used on input line 36
+4.
 (pdftex.def)             Requested size: 327.62653pt x 311.96791pt.
  [11 <./figures/corrmatrix_stunting.png>]
 <figures/corrmatrix_dead5.png, id=142, 541.02126pt x 533.995pt>
 File: figures/corrmatrix_dead5.png Graphic file (type png)
 <use figures/corrmatrix_dead5.png>
-Package pdftex.def Info: figures/corrmatrix_dead5.png  used on input line 368.
+Package pdftex.def Info: figures/corrmatrix_dead5.png  used on input line 374.
 (pdftex.def)             Requested size: 324.61525pt x 320.39948pt.
  [12 <./figures/corrmatrix_dead5.png>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 22637 strings out of 479497
- 453623 string characters out of 5872417
+ 22695 strings out of 479497
+ 454545 string characters out of 5872417
  773559 words of memory out of 5000000
- 38991 multiletter control sequences out of 15000+600000
- 585559 words of font info for 201 fonts, out of 8000000 for 9000
+ 39031 multiletter control sequences out of 15000+600000
+ 594273 words of font info for 229 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,19n,109p,909b,865s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/t
@@ -989,10 +988,10 @@ lic/cm-super/sftt1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/p
 alatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino
 /uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8
 a.pfb>
-Output written on main.pdf (12 pages, 362315 bytes).
+Output written on main.pdf (12 pages, 362291 bytes).
 PDF statistics:
  194 PDF objects out of 1000 (max. 8388607)
  148 compressed objects within 2 object streams
  56 named destinations out of 1000 (max. 500000)
- 48698 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 59450 words of extra memory for PDF output out of 61914 (max. 10000000)
 
