@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{DHS20}
 {The DHS Program - Data}.
@@ -30,6 +30,15 @@ UNICEF (United Nations~Children's Fund).
   Human Development Reports}, Dec 2006.
 \newblock [Online; accessed 19. Dec. 2020].
 
+\bibitem{Health2016Dec}
+{Ministry of Health, Community Development, Gender, Elderly and Children -
+  MoHCDGEC/Tanzania Mainland}, Ministry Of~Health-Moh/zanzibar, National~Bureau
+  Of~Statistics-Nbs/tanzania, Office Of~Chief Government
+  Statistician-Ocgs/zanzibar, and Icf.
+\newblock {Tanzania Demographic and Health Survey and Malaria Indicator Survey
+  2015-2016}, Dec 2016.
+\newblock [Online; accessed 21. Dec. 2020].
+
 \bibitem{UNI18}
 {Ministry of Health, Community Development, Gender, Elderly and Children
   (MoHCDGEC) [Tanzania Mainland], Ministry of Health (MoH) [Zanzibar], Tanzania
@@ -46,6 +55,11 @@ Alphonse Nshimyiryo, Bethany Hedt-Gauthier, Christine Mutaganzwa, Catherine~M.
   cross-sectional population-based study in Rwanda using the 2015 Demographic
   and Health Survey}.
 \newblock {\em BMC Public Health}, 19(1):1--10, Dec 2019.
+
+\bibitem{uddin2009}
+Jamal Uddin, Zakir Hossain, and Mohammad~Ohid Ullah.
+\newblock Child mortality in a developing country: A statistical analysis.
+\newblock 2009.
 
 \bibitem{UN20}
 {United Nations Interagency Group for Child Mortality Estimation (UN IGME)}.
